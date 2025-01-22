@@ -1,4 +1,4 @@
-![Fig2_00](https://github.com/user-attachments/assets/082c5249-314a-435c-9fef-575cc898b46e)# Official Implementation of [GLMKD-WSSS] / 论文代码官方实现
+##  Official Implementation of [GLMKD-WSSS] / 论文代码官方实现
 
 This repository contains the official implementation of the paper:
 

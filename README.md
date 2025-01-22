@@ -33,11 +33,11 @@ To segment the lesion from WSI image with image-level label, we propose a novel 
 ### Repository Structure / 仓库结构
 
 ```
-├── data/                 # 示例数据集或数据加载脚本（如适用）
+├── data/                 # 示例数据集或数据加载脚本
 ├── models/               # 模型定义
 ├── experiments/          # 实验脚本
 ├── utils/                # 工具函数
-├── results/              # 结果或检查点（如适用）
+├── results/              # 结果或检查点
 ├── requirements.txt      # Python 依赖
 └── README.md             # 本文件
 ```

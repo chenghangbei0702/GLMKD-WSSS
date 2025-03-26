@@ -6,9 +6,7 @@ This repository contains the official implementation of the paper:
 
 [Authors: Hangbei Cheng, Yongfei Wu, etc.]  [作者：成航北，刘雪宇，吴永飞等]
 
-Currently under review at [[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)].
-
-If our work is accepted, we plan to publicly release the code in a timely manner after the paper is published.
+2025.3.24, our work is accepted by [[Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)].
 
 ---
 
